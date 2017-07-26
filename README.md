@@ -5,3 +5,5 @@ Arkadaslar program müzik indirmek için Webbrowser kullaniyor ve bir siteyi eli
 Iletisim için: karakusnavy@gmail.com
 
 <p style="text-align: center;"><img src="https://i.hizliresim.com/jWryOL.png" alt="" width="751" height="427" /></p>
+<p style="text-align: center;"><img src="https://i.hizliresim.com/XX8PAj.png" alt="" width="751" height="427" /></p>
+<p style="text-align: center;"><img src="https://i.hizliresim.com/bGZB30.png" alt="" width="751" height="427" /></p>
