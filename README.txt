@@ -1,5 +1,5 @@
-<H1> YOUTUBE MP3 AND VIDEO DONWLOADER C# </H1>
+<h1> YOUTUBE MP3 AND VIDEO DONWLOADER C# </h1>
 
-Arkadaslar program müzik indirmek için Webbrowser kullaniyor ve bir siteyi eline alarak indiriyor. Video indirirken özel bir companent kullaniyor.
+Arkadaslar program mÃ¼zik indirmek iÃ§in Webbrowser kullaniyor ve bir siteyi eline alarak indiriyor. Video indirirken Ã¶zel bir companent kullaniyor.
 
-Iletisim için: karakusnavy@gmail.com
+Iletisim iÃ§in: karakusnavy@gmail.com
